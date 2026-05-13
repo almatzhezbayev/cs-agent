@@ -1,0 +1,132 @@
+[
+  {
+    "customer_id": "CUST001",
+    "first_name": "John",
+    "last_name": "Smith",
+    "email": "john.smith@email.com",
+    "phone": "+1-555-0101",
+    "address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10001",
+      "country": "USA"
+    },
+    "date_of_birth": "1985-03-15",
+    "registration_date": "2022-11-20",
+    "tier": "Premium",
+    "communication_preferences": {
+      "email": true,
+      "sms": true,
+      "phone": false
+    },
+    "support_cases_count": 2,
+    "total_purchases": 3,
+    "lifetime_value": 2850.0,
+    "notes": "VIP customer, prefers email communication"
+  },
+  {
+    "customer_id": "CUST002",
+    "first_name": "Sarah",
+    "last_name": "Johnson",
+    "email": "sarah.johnson@email.com",
+    "phone": "+1-555-0102",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "90210",
+      "country": "USA"
+    },
+    "date_of_birth": "1990-07-22",
+    "registration_date": "2023-03-15",
+    "tier": "Standard",
+    "communication_preferences": {
+      "email": true,
+      "sms": false,
+      "phone": true
+    },
+    "support_cases_count": 1,
+    "total_purchases": 1,
+    "lifetime_value": 1299.99,
+    "notes": "Tech-savvy customer, quick to resolve issues"
+  },
+  {
+    "customer_id": "CUST003",
+    "first_name": "Mike",
+    "last_name": "Davis",
+    "email": "mike.davis@email.com",
+    "phone": "+1-555-0103",
+    "address": {
+      "street": "789 Pine Street",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "60601",
+      "country": "USA"
+    },
+    "date_of_birth": "1988-12-03",
+    "registration_date": "2023-08-10",
+    "tier": "Gold",
+    "communication_preferences": {
+      "email": true,
+      "sms": true,
+      "phone": true
+    },
+    "support_cases_count": 0,
+    "total_purchases": 2,
+    "lifetime_value": 549.98,
+    "notes": "Audio enthusiast, interested in premium products"
+  },
+  {
+    "customer_id": "CUST004",
+    "first_name": "Emily",
+    "last_name": "Brown",
+    "email": "emily.brown@email.com",
+    "phone": "+1-555-0104",
+    "address": {
+      "street": "321 Elm Drive",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77001",
+      "country": "USA"
+    },
+    "date_of_birth": "1992-04-18",
+    "registration_date": "2022-09-05",
+    "tier": "Standard",
+    "communication_preferences": {
+      "email": true,
+      "sms": false,
+      "phone": false
+    },
+    "support_cases_count": 3,
+    "total_purchases": 1,
+    "lifetime_value": 399.99,
+    "notes": "Fitness enthusiast, uses wearables frequently"
+  },
+  {
+    "customer_id": "CUST005",
+    "first_name": "Robert",
+    "last_name": "Wilson",
+    "email": "robert.wilson@email.com",
+    "phone": "+1-555-0105",
+    "address": {
+      "street": "654 Maple Lane",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "85001",
+      "country": "USA"
+    },
+    "date_of_birth": "1983-09-11",
+    "registration_date": "2023-10-12",
+    "tier": "Premium",
+    "communication_preferences": {
+      "email": false,
+      "sms": true,
+      "phone": true
+    },
+    "support_cases_count": 1,
+    "total_purchases": 1,
+    "lifetime_value": 699.99,
+    "notes": "Gaming enthusiast, prefers phone support"
+  }
+]

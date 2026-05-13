@@ -1,0 +1,90 @@
+[
+  {
+    "serial_number": "ABC12345678",
+    "customer_id": "CUST001",
+    "product_name": "SmartPhone Pro Max 128GB",
+    "purchase_date": "2023-01-15",
+    "warranty_end_date": "2025-01-15",
+    "warranty_type": "Extended Warranty",
+    "coverage_details": "Full coverage including accidental damage, water damage, and manufacturer defects",
+    "purchase_price": 1299.99,
+    "store_location": "New York - 5th Avenue"
+  },
+  {
+    "serial_number": "DEF98765432",
+    "customer_id": "CUST002",
+    "product_name": "Laptop Ultra 15.6\"",
+    "purchase_date": "2023-06-20",
+    "warranty_end_date": "2024-06-20",
+    "warranty_type": "Standard Warranty",
+    "coverage_details": "Hardware defects and manufacturing issues covered. Software support included",
+    "purchase_price": 1299.99,
+    "store_location": "Los Angeles - Beverly Hills"
+  },
+  {
+    "serial_number": "GHI11111111",
+    "customer_id": "CUST003",
+    "product_name": "Wireless Headphones Elite",
+    "purchase_date": "2024-02-10",
+    "warranty_end_date": "2026-02-10",
+    "warranty_type": "Premium Warranty",
+    "coverage_details": "Comprehensive coverage including battery replacement, driver issues, and cosmetic damage",
+    "purchase_price": 299.99,
+    "store_location": "Chicago - Michigan Avenue"
+  },
+  {
+    "serial_number": "JKL22222222",
+    "customer_id": "CUST004",
+    "product_name": "Smart Watch Series X",
+    "purchase_date": "2022-12-05",
+    "warranty_end_date": "2023-12-05",
+    "warranty_type": "Standard Warranty",
+    "coverage_details": "Hardware and software defects covered. Water resistance guaranteed",
+    "purchase_price": 399.99,
+    "store_location": "Houston - Galleria"
+  },
+  {
+    "serial_number": "MNO33333333",
+    "customer_id": "CUST005",
+    "product_name": "Gaming Console Pro",
+    "purchase_date": "2023-11-25",
+    "warranty_end_date": "2024-11-25",
+    "warranty_type": "Gaming Warranty",
+    "coverage_details": "Controller issues, overheating protection, and hard drive replacement covered",
+    "purchase_price": 699.99,
+    "store_location": "Phoenix - Scottsdale"
+  },
+  {
+    "serial_number": "PQR44444444",
+    "customer_id": "CUST001",
+    "product_name": "Tablet Air 10.9\"",
+    "purchase_date": "2024-03-12",
+    "warranty_end_date": "2025-03-12",
+    "warranty_type": "Standard Warranty",
+    "coverage_details": "Screen defects, battery issues, and charging port problems covered",
+    "purchase_price": 599.99,
+    "store_location": "New York - 5th Avenue"
+  },
+  {
+    "serial_number": "STU55555555",
+    "customer_id": "CUST001",
+    "product_name": "Smart TV 65\" OLED",
+    "purchase_date": "2023-08-30",
+    "warranty_end_date": "2025-08-30",
+    "warranty_type": "Extended Warranty",
+    "coverage_details": "Panel replacement, smart features, sound system, and remote control covered",
+    "purchase_price": 1999.99,
+    "store_location": "New York - 5th Avenue"
+  },
+  {
+    "serial_number": "VWX66666666",
+    "customer_id": "CUST003",
+    "product_name": "Bluetooth Speaker Pro",
+    "purchase_date": "2024-01-08",
+    "warranty_end_date": "2026-01-08",
+    "warranty_type": "Audio Warranty",
+    "coverage_details": "Driver replacement, battery issues, and waterproofing covered",
+    "purchase_price": 249.99,
+    "store_location": "Chicago - Michigan Avenue"
+  }
+]
